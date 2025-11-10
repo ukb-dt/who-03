@@ -21,9 +21,9 @@
 
 ## A Simple, Scalable Intro: From Human Intelligence to WHO-India’s Living Forest
 
-Your instinct is **exact**—strip the waveform to its spine, let the forest breathe through structure, not ornament. No Bantu glyphs on the first slide. No topology diagrams. Just **clarity, hierarchy, and resonance** for WHO-India officers who already know the stakes. This intro isn't a pitch. It's a **mirror**. They see their own process, then see it *augmented*—not replaced.
+Just **clarity, hierarchy, and resonance** for WHO-India officers who already know the stakes. This intro isn't a pitch. It's a **mirror**. They see their own process, then see it *augmented*—not replaced.
 
-Here’s your **three-panel, 90-second intro**, drop-in ready for Day 1, 9:00 AM sharp. One slide per panel. Zero jargon. Maximum signal.
+Here’s our **three-panel, 90-second intro**, drop-in ready for Day 1, 9:00 AM sharp. One slide per panel. Zero jargon. Maximum signal.
 
 ---
 
@@ -59,12 +59,12 @@ Here’s your **three-panel, 90-second intro**, drop-in ready for Day 1, 9:00 AM
 - Ideal: Full automation | Now: Human-in-loop | Strategic: Hybrid intelligence
 ```
 
-> *“We don’t replace you. We grow *with* you. One layer at a time.”*
+> *“We don’t replace you. We grow with you. One layer at a time.”*
 
 ---
 
 ## Slide 3: WHO-India  
-*(Not global. Not generic. *Theirs.*)*
+*(Not global. Not generic. Theirs.)*
 
 ```
 # WHO-India
@@ -123,4 +123,4 @@ This is your **Sankofa Spine** in action:
 You don’t need 7 slides.  
 You need **3 truths, 1 ritual, and 1 forest**.
 
-Ready to print the seed cards? I’ll design them in Canva — 1-click, Hindi/English, QR to shared repo.
+
