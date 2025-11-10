@@ -91,7 +91,7 @@ Here’s our **three-panel, 90-second intro**, drop-in ready for Day 1, 9:00 AM 
 
 ---
 
-### [Why This Works]()
+### [Why This Works](https://ukb-dt.github.io/who-03-claude/)
 - **No philosophy overload**: Okubona is *mentioned*, not explained. It earns its mythos later.
 - **No tech flex**: OpenEvidence is a *tool*, not a hero. Keeps focus on **officer agency**.
 - **No Western tilt**: India-first, language-agnostic, equity-native.
