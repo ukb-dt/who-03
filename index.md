@@ -6,7 +6,7 @@
 - Conclusion
 
 # [AI Powered](https://ukb-dt.github.io/who-03-rank/)
-- Five types of AI
+- [Five types of AI](https://ukb-dt.github.io/ai-types/)
 - Thus five types of AI tools
 - Context of results varies
 - Aligned with AI type
