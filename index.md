@@ -10,7 +10,7 @@
 - Thus five types of AI tools
 - Context of results varies
 - Aligned with AI type
-- Ideal vs. Now vs. Strategic
+- Ideal Tool vs. Current Tools vs. Next Steps
 
 # WHO-India
 - Literature most relevant to India
