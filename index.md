@@ -19,20 +19,19 @@ Five emergent layers—from embodied wisdom to world's raw data
 | Layer | Role in Evidence Synthesis |
 |-------|---------------------------|
 | **Embodied AI** | Audits the entire workflow—bias detection, equity checks, PRISMA compliance |
-| **Generative AI)** | Synthesizes findings into reports, policy briefs, and insights (Litmaps, Undermind) |
-| **Agentic AI** | Automates screening, extraction, and repetitive tasks (Rayyan, ASReview, Scispace) |
-| **[Perception AI](https://ukb-dt.github.io/who-03-rank/)** | Ingests literature across journals, languages, and grey sources (Elicit, Semantic Scholar) |
-| **World AI** | Understands global health patterns, NCDs, TB, AYUSH foundations—the raw environment |
+| **Generative AI** | Synthesizes findings into reports, policy briefs, and insights   |
+| **Agentic AI** | Automates screening, extraction, and repetitive tasks  |
+| **[Perception AI](https://ukb-dt.github.io/who-03-rank/)** | Ingests literature across journals, languages, and grey sources   |
+| **World AI** | Understands global health patterns, NCDs, TB, etc—the raw environment |
 
 *No standard classification exists → Ours is inspired by the market place* 
 
 ---
 
 ## [WHO-India](https://ukb-dt.github.io/who-03-india/)
-Not global. Not generic. Policy outputs rooted in Indian soil.
 
 ### Vocabulary Beyond "AI Tools"
-Not efficiency → **Co-adaptation between human and machine intelligence** (Embodied AI—the apex)
+Policy outputs rooted in Indian soil → **Co-adaptation between human and machine intelligence**  
 
 ### Invariant Aspects of Science & Public Health
 - Bias must be **named** → Embodied AI audits
@@ -48,7 +47,7 @@ Not efficiency → **Co-adaptation between human and machine intelligence** (Emb
 Hindi, Tamil, grey literature, field notes—every voice heard (Perception AI)
 
 ### Literature Most Relevant to India
-NCDs, TB, AYUSH, UHC—the Indian epidemiological landscape (World AI foundation)
+NCDs, TB, [UHC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6057252/)—the Indian epidemiological landscape (World AI foundation)
 
 ---
 
@@ -62,5 +61,5 @@ This is **your evidence, your language, your impact**—faster, fairer, scalable
 
 Like the OpenAI revenue chart: small foundation (2023), explosive emergence through layers, with **Agents and New Products** (Embodied AI) driving apex growth to $125B.
 
-> *"We don't replace you. We grow with you. One layer at a time."*  
+> *"Doesn't replace you. It grows with you. One layer at a time."*  
 > — The `O)-(O` topology of evidence synthesis as a living system
