@@ -10,7 +10,7 @@
 - Thus five types of AI tools
 - Context of results varies
 - Aligned with AI type
-- [Ideal](https://ukb-dt.github.io/who-03-ideal/) Tool vs. [Current](https://ukb-dt.github.io/who-03-rank/) Tools vs. Next Steps
+- [Ideal](https://ukb-dt.github.io/who-03-ideal/) Tool vs. [Current](https://ukb-dt.github.io/who-03-rank/) Tools vs. Next Wave
 
 # [WHO-India](https://ukb-dt.github.io/who-03-india/)
 - Literature most relevant to India
