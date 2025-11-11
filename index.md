@@ -9,6 +9,8 @@ The current reality: inverted pyramid of effort
 - **Methods**: PubMed → Embase → 10,000 abstracts → 3 months—the ritualistic grind
 - **Background**: What we know, what we don't—the soil from which everything grows
 
+Inverted to match the visuals of OpenAIs growth chart
+
 ---
 
 ## [Artificial Intelligence](https://ukb-dt.github.io/ai-types/)
@@ -22,7 +24,7 @@ Five emergent layers—from embodied wisdom to world's raw data
 | **[Perception AI](https://ukb-dt.github.io/who-03-rank/)** | Ingests literature across journals, languages, and grey sources (Elicit, Semantic Scholar) |
 | **World AI** | Understands global health patterns, NCDs, TB, AYUSH foundations—the raw environment |
 
-- **No standard classification exists** → Ours is inspired by the [market place](https://ukb-dt.github.io/ai-types) 
+*No standard classification exists → Ours is inspired by the market place* 
 
 ---
 
