@@ -1,4 +1,4 @@
-# [Human Intelligence](coming)
+# [Human Intelligence]([coming](https://ukb-dt.github.io/who-03-hi/))
 - Background
 - Methods
 - Results
