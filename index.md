@@ -47,7 +47,7 @@ Policy outputs rooted in Indian soil → **Co-adaptation between human and machi
 Hindi, Tamil, grey literature, field notes—every voice heard (Perception AI)
 
 ### Literature Most Relevant to India
-NCDs, TB, [UHC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6057252/)—the Indian epidemiological landscape (World AI foundation)
+NCDs, TB, [UHC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6057252/)—(Ayushman Bharat & associated databases)
 
 ---
 
