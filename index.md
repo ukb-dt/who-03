@@ -1,32 +1,5 @@
-# From Human Intelligence to Living Systems
 
-## [Human Intelligence](https://ukb-dt.github.io/who-03-hi/)
-The current reality: inverted pyramid of effort
 
-- **Conclusion**: WHO policy briefs, guidelines—outputs that shape nations
-- **Limitations**: Time, bias, scale, burnout—constraints that distort evidence
-- **Results**: 1 report, 1 officer, 1 deadline missed—the compression of months into moments
-- **Methods**: PubMed → Embase → 10,000 abstracts → 3 months—the ritualistic grind
-- **Background**: What we know, what we don't—the soil from which everything grows
-
-Inverted to match the visuals of OpenAIs growth chart
-
----
-
-## [Artificial Intelligence](https://ukb-dt.github.io/ai-types/)
-Five emergent layers—from embodied wisdom to world's raw data
-
-| Layer | Role in Evidence Synthesis |
-|-------|---------------------------|
-| **Embodied AI** | Audits the entire workflow—bias detection, equity checks, PRISMA compliance |
-| **Generative AI** | Synthesizes findings into reports, policy briefs, and insights   |
-| **Agentic AI** | Automates screening, extraction, and repetitive tasks  |
-| **[Perception AI](https://ukb-dt.github.io/who-03-rank/)** | Ingests literature across journals, languages, and grey sources   |
-| **World AI** | Understands global health patterns, NCDs, TB, etc—the raw environment |
-
-*No standard classification exists → Ours is inspired by the market place* 
-
----
 
 ## [WHO-India](https://ukb-dt.github.io/who-03-india/)
 
@@ -38,28 +11,14 @@ Policy outputs rooted in Indian soil → **Co-adaptation between human and machi
 - Gaps must be **acted on** → Generative AI synthesizes
 - Evidence must be **found** → Perception AI locates
 
-### Tailored to WHO-India's Workflow
+### [Tailored](https://ukb-dt.github.io/who-03-c/) to WHO-India's Workflow
 - Equity embedded in every filter, not bolted on
 - PRISMA compliance without bureaucratic friction
 - 700+ officers needing evidence at policy speed
 
 ### Journal & Language Agnostic  
-Hindi, Tamil, grey literature, field notes—every voice heard (Perception AI)
+Hindi, Tamil, grey literature, field notes—every voice heard ([Perception AI](https://ukb-dt.github.io/who-03-b/))
 
-### Literature Most Relevant to India
+### [Literature](https://ukb-dt.github.io/who-03-a/) Most Relevant to India
 NCDs, TB, [UHC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6057252/)—(Ayushman Bharat & associated databases)
 
----
-
-## The Trajectory
-
-**From**: Background → Methods → Results → Limitations → Conclusion (Human Intelligence, inverted pyramid crushing the officer)  
-**To**: World AI (India's data) → Perception AI (ingest everything) → Agentic AI (automate workflows) → Generative AI (synthesize insights) → Embodied AI (audit for equity) → **WHO Policy Outputs**
-
-**This isn't AI for AI's sake.**  
-This is **your evidence, your language, your impact**—faster, fairer, scalable.
-
-Like the OpenAI revenue chart: small foundation (2023), explosive emergence through layers, with **Agents and New Products** (Embodied AI) driving apex growth to $125B.
-
-> *"Doesn't replace you. It grows with you. One layer at a time."*  
-> — The `O)-(O` topology of evidence synthesis as a living system
