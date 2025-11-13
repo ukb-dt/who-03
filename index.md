@@ -1,5 +1,8 @@
 
-
+> *Read from bottom to top*                   
+> *Structure is parallel to Literature Review*            
+> *Background, Methods, Results, Limitations, Conclusions*         
+> -- Yours Truly
 
 ## [WHO-India](https://ukb-dt.github.io/who-03-india/)
 
