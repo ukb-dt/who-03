@@ -1,9 +1,9 @@
-> *Read from bottom-to-top*          
-> -- Yours Truly
+> *AI is an infrastructure*                  
+> -- Jensen Huang
 
 ## [WHO-India](https://ukb-dt.github.io/who-03-india/)
 
-### Conclusions: Vocabulary Beyond "AI Tools"
+### Conclusions: [Vocabulary](https://ukb-dt.github.io/gpu/) Beyond "AI Tools"
 Policy outputs rooted in Indian soil → **Co-adaptation between human and machine intelligence**  
 
 ### Limitations: Invariant Aspects of Science & Public Health
