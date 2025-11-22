@@ -14,7 +14,7 @@ Policy outputs rooted in Indian soil → **Co-adaptation between human and machi
 ### Results: [Tailored](https://ukb-dt.github.io/who-03-c/) to WHO-India's Workflow
 - Equity embedded in every filter, not bolted on
 - PRISMA compliance without bureaucratic friction
-- 700+ officers needing evidence at policy speed
+- 700[+](https://ukb-dt.github.io/n/) officers needing evidence at policy speed
 
 ### Methods: Journal & Language Agnostic  
 Hindi, Tamil, grey literature, field notes—every voice heard ([Perception AI](https://ukb-dt.github.io/who-03-b/))
