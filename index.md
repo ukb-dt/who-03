@@ -23,15 +23,20 @@ Hindi, Tamil, grey literature, field notes—every voice heard ([Perception AI](
 NCDs, TB, [UHC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6057252/)—(Ayushman Bharat & associated databases)
 
 <div style="
-  margin-top:2.5em;
-  padding-top:1.2em;
-  border-top:1px solid #ddd;
-  font-size:0.9em;
-  color:#666;
-  text-align:right;
+  margin-top: 3em;
+  padding: 1em 1.2em;
+  border-top: 1px solid #e0e0e0;
+  font-size: 0.9em;
+  color: #555;
+  text-align: right;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
 ">
   <a href="https://ukb-dt.github.io/who-04/" 
-     style="text-decoration:none; color:#444;">
+     style="text-decoration: none; color: #1a73e8; font-weight: 500;"
+     onmouseover="this.style.textDecoration='underline'; this.style.backgroundColor='#eef3fc';"
+     onmouseout="this.style.textDecoration='none'; this.style.backgroundColor='transparent';">
     see next version →
   </a>
 </div>
